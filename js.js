@@ -18,10 +18,10 @@
 		'	<div class="cv__top">'+
 		'		<div>'+
 		'			<p class="cv__sub_title dust">Address</p>'+
-		'			<p class="page_text dust">Viliamsa St., Odessa, Ukraine</p>'+
+		'			<p class="page_text dust">Odessa, Ukraine</p>'+
 		'		</div>'+
 		'		<div>'+
-		'			<p class="cv__sub_title dust">Contact</p>'+
+		'			<p class="cv__sub_title dust">Contacts</p>'+
 		'			<div class="page_text marginB15 dust">Phone number: <a href="" class="contact_link">+380973081413</a></div>'+
 		'			<div class="page_text marginB15 dust">E-Mail: <a href="mailto: vladkukhlii@gmail.com" class="contact_link">vladkukhlii@gmail.com</a></div>'+
 		'		</div>'+
