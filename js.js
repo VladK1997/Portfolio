@@ -50,6 +50,7 @@
 		'				<li class="cv__list-item dust">Basic JS;</p></li>'+
 		'				<li class="cv__list-item dust">Js constructors, XMLHttpRequest, YouTubeAPI;</p></li>'+
 		'				<li class="cv__list-item dust">Basic knowledge of improving usability of websites;</p></li>'+
+	      					'<li class="cv__list-item dust">Basic photoshop;</p></li>'+
 		'			</ul>'+
 		'		</div>'+
 		'		<div class="cv__block cv__block--hobbies">'+
