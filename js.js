@@ -27,7 +27,7 @@
 		'		</div>'+
 		'		<div>'+
 		'			<p class="cv__sub_title dust">Date of birth</p>'+
-		'			<p class="page_text dust"><strong>13.03.1997</strong></p>'+
+		'			<p class="page_text dust">13.03.1997</p>'+
 		'		</div>'+
 		'	</div>'+
 		'	<div class="cv__left">'+
