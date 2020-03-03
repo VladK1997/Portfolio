@@ -43,7 +43,7 @@
 		'			</div>'+
 		'		</div>'+
 		'		<div class="cv__block">'+
-		'			<h1 class="cv__title dust"><span class="cv__icon cv__icon--edu"></span>Education</h1>'+
+		'			<h1 class="cv__title dust"><span class="cv__icon cv__icon--skills"></span>Work experience</h1>'+
 		'			<div class="education_item">'+
 		'				<p class="page_text dust"><strong>Develup</strong><br>15.06.2019 – 01.09.2019<br>'+
 		'				</p>'+
@@ -129,11 +129,12 @@
 		'	</div>'+
 		'	<div class="cv__right">'+
 		'		<div class="cv__block cv__block--personality">'+
-		'			<h1 class="cv__title dust"><span class="cv__icon cv__icon--skills"></span>Personality</h1>'+
+		'			<h1 class="cv__title dust"><span class="cv__icon cv__icon--skills"></span>Personal qualities</h1>'+
 		'			<p>Communicative</p>'+
-		'			<p>Command player</p>'+
-		'			<p>Without bad habits</p>'+
-		'			<p>Realist</p>'+
+		'			<p>Team player</p>'+
+		'			<p> Quick learner</p>'+
+		'			<p>Good work ethic</p>'+
+		'			<p>Problem solver</p>'+
 		'		</div>'+
 		'		<div class="cv__block dust">'+
 		'			<h1 class="cv__title"><span class="cv__icon cv__icon--languages"></span>Languages</h1>'+
@@ -212,7 +213,7 @@
 		thanosEnd = "";
 		thanosSnapDone = false;
 		infinityArray = [];
-	}
+	};
 	let posEnd = function(){
 			[].forEach.call(block, function(block){
 				block.style.transform = 'translate(0) rotate(0)';
