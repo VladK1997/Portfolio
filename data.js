@@ -12,7 +12,7 @@ let data = [
 	{
 		img:'img/six.png',
 		alt: 'img/3.png',
-		link:''
+		link:'https://vladyslavkuklhii.github.io/travel/'
 	},
 	{
 		img:'img/uhod.jpg',
