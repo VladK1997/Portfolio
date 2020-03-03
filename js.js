@@ -34,23 +34,35 @@
 		'		<div class="cv__block">'+
 		'			<h1 class="cv__title dust"><span class="cv__icon cv__icon--edu"></span>Education</h1>'+
 		'			<div class="education_item">'+
-		'				<p class="page_text dust">2014-2018<br><strong>National University “Odessa Maritime Academy”</strong><br>'+
+		'				<p class="page_text dust"><strong>National University “Odessa Maritime Academy”</strong><br>2014-2018<br>'+
 		'					Bachelor\'s degree in NAVIGATION'+
 		'				</p>'+
 		'			</div>'+
 		'			<div class="education_item">'+
-		'				<p class="page_text dust">2019 Additional Education:<br><strong>Hillel IT School</strong><br>Front-End Basic</p>'+
+		'				<p class="page_text dust"><strong>Hillel IT School</strong><br>2019<br>Front-End Basic</p>'+
 		'			</div>'+
 		'		</div>'+
 		'		<div class="cv__block">'+
+		'			<h1 class="cv__title dust"><span class="cv__icon cv__icon--edu"></span>Education</h1>'+
+		'			<div class="education_item">'+
+		'				<p class="page_text dust"><strong>Develup</strong><br>15.06.2019 – 01.09.2019<br>'+
+		'				</p>'+
+		'			</div>'+
+		'			<div class="education_item">'+
+		'				<p class="page_text dust"><strong>PLASTILIN</strong><br>01.12.2019 – 01.03.2020</p>'+
+		'			</div>'+
+		'			<div class="education_item">'+
+		'				<p class="page_text dust"><strong>Freelance</strong><br>01.06.2020 – present</p>'+
+		'			</div>'+
+		'		</div>'+
+				'<div class="cv__block">'+
 		'			<h1 class="cv__title dust"><span class="cv__icon cv__icon--skills"></span>Skills</h1>'+
 		'			<ul>'+
-		'				<li class="cv__list-item dust">HTML;</p></li>'+
-		'				<li class="cv__list-item dust">CSS/LESS;</p></li>'+
-		'				<li class="cv__list-item dust">Basic JS;</p></li>'+
-		'				<li class="cv__list-item dust">Js constructors, XMLHttpRequest, YouTubeAPI;</p></li>'+
-		'				<li class="cv__list-item dust">Basic knowledge of improving usability of websites;</p></li>'+
-	      					'<li class="cv__list-item dust">Basic photoshop;</p></li>'+
+		'				<li class="cv__list-item dust">HTML, CSS(less,scss), JS;</p></li>'+
+		'				<li class="cv__list-item dust">Vue.js ,Vue router, Axios;</p></li>'+
+		'				<li class="cv__list-item dust">JsWeb: YouTubeAPI, Audio, canvas, AJAX, Intersection Observer;</p></li>'+
+		'				<li class="cv__list-item dust">git, npm, webpack, gulp;</p></li>'+
+		'				<li class="cv__list-item dust">Photoshop, Figma, Avocode;</p></li>'+
 		'			</ul>'+
 		'		</div>'+
 		'		<div class="cv__block cv__block--hobbies">'+
