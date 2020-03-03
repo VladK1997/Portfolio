@@ -12,12 +12,12 @@ let data = [
 	{
 		img:'img/six.png',
 		alt: 'img/3.png',
-		link:'https://vladk1997.github.io/travel/'
+		link:''
 	},
 	{
-		img:'img/nine.png',
+		img:'img/uhod.jpg',
 		alt: 'img/41.png',
-		link:'https://vladk1997.github.io/mitalent/'
+		link:'https://uhod.ua/'
 	},
 	{
 		img:'img/minimo.jpg',
@@ -30,9 +30,9 @@ let data = [
 		link:'https://vladk1997.github.io/BisLite/'
 	},
 	{
-		img:'img/business.jpg',
+		img:'img/mosprom.jpg',
 		alt: 'img/3_2.png',
-		link:'https://vladk1997.github.io/business/'
+		link:'https://spartakiadamosprom.lenta.ru/'
 	},
 	{
 		img:'img/int.jpg',
