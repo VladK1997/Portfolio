@@ -120,6 +120,7 @@ li{
 	transition: 1s;
 	z-index: 0;
 }
+
 .modern_browser_btn__shape:after{
 	position: absolute;
 	width: 131%;
@@ -200,6 +201,9 @@ li{
 .nav__item:hover{
 	color: dodgerblue;
 	cursor: pointer;
+}
+.nav__item--uiux{
+	width: 130px;
 }
 .content{
 	display: flex;
@@ -739,7 +743,7 @@ li{
 		height: 0;
 	}
 	.cv__top{
-		jucs
+
 	}
 	.cv__top div:not(:last-child){
 		display: none;
